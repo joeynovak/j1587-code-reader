@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'reaktor-charger'
+    name: 'j1587-code-reader'
   }
 </script>
 
